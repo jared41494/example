@@ -1,1 +1,4 @@
-This is a example text document....more changes
+This is a example text document....more changes....
+
+
+changes made in 1/new-feature but not master
